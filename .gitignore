@@ -40,5 +40,3 @@ Thumbs.db
 .bundle/
 _site/
 vendor/
-Gemfile
-Gemfile.lock
