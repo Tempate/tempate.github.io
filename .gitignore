@@ -35,3 +35,10 @@
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+# Manual ignores
+.bundle/
+_site/
+vendor/
+Gemfile
+Gemfile.lock
