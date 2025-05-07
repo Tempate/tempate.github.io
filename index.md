@@ -1,9 +1,6 @@
 ---
-layout: default
 title: About me
 ---
-
-# About me
 
 <div style="display: flex; align-items: center; gap: 20px;">
   <img src="/assets/images/me.jpg" alt="My photo" style="width:150px;">
