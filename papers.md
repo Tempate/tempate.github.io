@@ -3,8 +3,6 @@ title: Papers
 permalink: /papers/
 ---
 
-# Papers
-
 Here are some of my papers. 
 
 - [**Using Operative Reports to Predict Heart Transplantation Survival**](https://pubmed.ncbi.nlm.nih.gov/36086591/)
