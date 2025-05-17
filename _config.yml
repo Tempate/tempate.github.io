@@ -1,2 +1,7 @@
 theme: minima
 title: Daniel Díaz Quílez
+
+header_pages:
+  - projects.md
+  - papers.md
+  - index.md

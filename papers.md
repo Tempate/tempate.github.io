@@ -1,10 +1,7 @@
 ---
-layout: default
 title: Papers
 permalink: /papers/
 ---
-
-# Papers
 
 Here are some of my papers. 
 
