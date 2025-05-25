@@ -5,6 +5,9 @@ permalink: /papers/
 
 Here are some of my papers. 
 
+- [**Belief Updates through Dynamic Modal Logic**](/assets/papers/belief_updates_through_dynamic_modal_logic.pdf)
+   * **Date:** May 2025
+
 - [**Using Operative Reports to Predict Heart Transplantation Survival**](https://pubmed.ncbi.nlm.nih.gov/36086591/)
    * **Publisher:** IEEE Open Journal of Engineering in Medice and Biology
    * **Date:** July 2022  
